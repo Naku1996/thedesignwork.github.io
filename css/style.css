@@ -179,6 +179,7 @@ position:absolute;
 .jumbotron a:hover {
   color: rgb(3, 21, 51);
 }
+
 /*gallery-start*/
 .lightboxOverlay {
   position: absolute;
@@ -208,6 +209,7 @@ video {
   width: 100%;
   height: auto;
 }
+
 /*index*/
 element.style {
     visibility: visible;
@@ -217,8 +219,8 @@ element.style {
     text-align: center;
     padding: 20px;
     border: 1px solid #f1f2f3;
-    
 }
+
 .delay-04s {
     -webkit-animation-delay: 0.4s;
 }
