@@ -143,10 +143,10 @@ li {
   color: white;
 }
 .map-container-6{
-overflow:hidden;
-padding-bottom:56.25%;
-position:relative;
-height:0;
+    overflow: hidden;
+    padding-bottom: 56.25%;
+    position: relative;
+    height: 0;
 }
 .map-container-6 iframe{
 left:0;
