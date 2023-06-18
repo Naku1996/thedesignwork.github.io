@@ -149,11 +149,11 @@ li {
     height: 0;
 }
 .map-container-6 iframe{
-left:0;
-top:0;
-height:100%;
-width:100%;
-position:absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    position: absolute;
 }
 .fa {
   font-size: 18px;
