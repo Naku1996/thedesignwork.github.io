@@ -1,6 +1,13 @@
 # thedesignwork.github.io
 This website is based on design work related to website design, logo design, photo shoot, contents creation and more.
 
+#Tech Used
+1. HTML
+2. CSS
+3. Bootstrap
+4. Javascript
+5. Jquery
+
 Live URL: https://naveenkumar163.github.io/thedesignwork.github.io/
 
 
