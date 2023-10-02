@@ -1,7 +1,7 @@
 # thedesignwork.github.io
 This website is based on design work related to website design, logo design, photo shoot, contents creation and more.
 
-#Tech Used
+# Tech Used
 1. HTML
 2. CSS
 3. Bootstrap
